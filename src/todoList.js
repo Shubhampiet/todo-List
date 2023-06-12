@@ -1,0 +1,1 @@
+export const todoList=["Meeting", "Coding", "Project-work", "Deliver-Presentation", "Checking-Mail"]
